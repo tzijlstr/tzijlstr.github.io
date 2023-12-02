@@ -1,4 +1,4 @@
-# Github Pages website for Assignment 3 of CMPUT 191
+# The Coca-Cola Index
 
 content
 
