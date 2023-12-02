@@ -1,4 +1,4 @@
-## Github Pages website for Assignment 3 of CMPUT 191
+# Github Pages website for Assignment 3 of CMPUT 191
 
 content
 
