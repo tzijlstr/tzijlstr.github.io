@@ -22,5 +22,3 @@ To establish wether or not GDP and Price are correlated the following Scatter Pl
 In conclusion there is no correlation between the GDP of a nation and the Price of Coca-Cola
 
 A more likely reason behind the price differences found is licensing agreements for distribution and production within nations as well as royalities and external factors related to the health of the nations respective economy.
-
-content
