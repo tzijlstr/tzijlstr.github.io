@@ -1,3 +1,5 @@
+The Coca Cola Index
+
 1. Scraping Data
    - https://www.globalproductprices.com/rankings/coca_cola_price/
    - https://wisevoter.com/country-rankings/gdp-by-country/
