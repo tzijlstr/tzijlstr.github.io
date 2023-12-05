@@ -6,10 +6,14 @@
    - https://divercitytimes.com/economy/currency/currency
    Data was scraped from these three sites to make the charts and tables used on this website
 
+![Complete Table](FullTable.png "Complete Data Table")
+
 2. Cleaning up and organizing data.
    - Combining the Price, GDP and Currency data to form 1 table of information
    - Converting the Price from USD to CAD for all countries data
    - Dropping Columns not need for the analysis
+  
+![Cleaned Table](CleanTable.png "Cleaned Data Table")
   
 3. The graph below displays the Coca-Cola price in selected nations compared to the price in CAD
 
