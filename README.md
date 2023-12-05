@@ -1,4 +1,4 @@
-The Coca Cola Index
+The Coca Cola Index:
 
 1. Scraping Data
    - https://www.globalproductprices.com/rankings/coca_cola_price/
