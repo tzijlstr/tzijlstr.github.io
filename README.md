@@ -9,8 +9,11 @@ The Coca Cola Index:
    - The first site contained information pertaining to the price of Coca-Cola and their respective countries
    - The second focuses on those countries corresponding GDPs
    - The last includes the countries currency codes
-   The following table shows a ten country sample of the data collected.
 
+   The code used to scrape the three tables is shown below.
+![Scrapping Code Table](Scrap.png "Scrapping Data Table Code")
+   
+   The following table shows a ten country sample of the data collected.
 ![Complete Table](FullTable.png "Complete Data Table")
 
 2. Cleaning up and organizing data.
@@ -19,9 +22,13 @@ The Coca Cola Index:
    - Dropping Columns not need for the analysis
    The following table shows the cleaned and organized data table.
   
-![Cleaned Table](CleanTable.png "Cleaned Data Table")
+![Cleaned Table](CleanTable.png "Conversion Table Code")
+
+![Array Code](Arr.png "Array Code")
+
+![Conversion Code](Conv.png "Complete Data Table")
   
-3. The graph below displays the Coca-Cola price in selected nations compared to the price in CAD
+4. The graph below displays the Coca-Cola price in selected nations compared to the price in CAD
    Notice that all countries shown in the graph contain prices significantly higher than the Canadian Price.
 
 ![CAD Prices](CocaPrice.png "CAD Prices")
